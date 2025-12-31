@@ -29,6 +29,26 @@ A powerful Tampermonkey userscript that brings Premium-style features to YouTube
 
 ---
 
+## 🧩 Browser Extension Version
+
+This project is also available as a **Browser Extension build**.
+
+To download and use the extension version:
+
+1. Go to the **Releases** section of this repository  
+   👉 https://github.com/shajon-dev/youtube-premium/releases
+2. Download the latest extension ZIP package from the release assets  
+3. Open your browser extensions page  
+4. Enable **Developer Mode**  
+5. **Drag & Drop the ZIP file directly into the extensions page**  
+   *(or extract it and use “Load unpacked” if drag & drop is not supported)*
+
+> ℹ️ The extension version includes all features of the Tampermonkey script with deeper browser-level ad blocking support.
+
+Please check the **Releases** page regularly for the latest extension updates.
+
+---
+
 ## 🛠 Current Features
 
 | Feature | Status |
@@ -44,6 +64,8 @@ A powerful Tampermonkey userscript that brings Premium-style features to YouTube
 ## 🧪 Ad-Block Test Preview
 
 ![Ad Block Test](https://raw.githubusercontent.com/shajon-dev/youtube-premium/refs/heads/main/no-ads.jpg)
+
+![Ad Block Test](https://raw.githubusercontent.com/shajon-dev/youtube-premium/refs/heads/main/extension.jpg)
 ---
 
 ## 🤝 Contribute
