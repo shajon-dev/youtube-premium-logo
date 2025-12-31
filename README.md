@@ -41,13 +41,9 @@ A powerful Tampermonkey userscript that brings Premium-style features to YouTube
 
 ---
 
-## 🧪 Upcoming Features
+## 🧪 Ad-Block Test Preview
 
-- ⚡ Faster DOM mutation detection  
-- 🧠 Smart dynamic-ad scanner  
-- 🎯 Premium-only layout emulation  
-- 🛡 Anti-adblock detection bypass
-
+![Ad Block Test](https://raw.githubusercontent.com/shajon-dev/youtube-premium/refs/heads/main/no-ads.jpg)
 ---
 
 ## 🤝 Contribute
